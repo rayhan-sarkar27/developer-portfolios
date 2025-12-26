@@ -1,0 +1,18 @@
+@import url('fonts.googleapis.com');
+body{
+     font-family: "Open Sans";
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.nav-title{
+    font-size: 45px;
+    font-weight: 800;
+
+}
+.nav-span{
+    color: tomato;
+}
+nav{
+    display: flex;
+}
